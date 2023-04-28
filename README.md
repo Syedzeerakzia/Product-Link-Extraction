@@ -19,7 +19,7 @@ This is a Node.js web scraping project that uses Puppeteer, a powerful headless 
 
 1. Install Node.js on your system.
 2. Clone this repository to your local machine.
-3. Navigate to the cloned directory and run `npm install` to install the required dependencies.
+3. Navigate to the cloned directory and run `npm install` to install the required dependencies.(which is only puppeteer in this case)
 4. Modify the `config.js` file to specify the website URL, number of pages, and any other options you want to use.
 5. Run `node paginate.js` to start the scraper.
 6. The extracted product links will be saved to a `products.json` file in the project directory.
